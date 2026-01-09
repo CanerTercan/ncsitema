@@ -1,5 +1,5 @@
 import { Shield, Twitter, Linkedin, Github } from 'lucide-react';
-import logoImage from 'figma:asset/bc17f70308f44433dbbf4c31d48c11983e6b4495.png';
+import logo from '/assets/logo.png'
 
 export function Footer() {
   return (
